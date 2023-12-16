@@ -11,11 +11,11 @@ Dokładniejszy opis działania znajduje się w "DrivingDarwinLatex".
 ## Krótki Opis <br/>
 Na projekt składają się 3 sceny(Każdej odpowiadają klawisze 1-3):
 
-**Scena 1 (solo)**<br/>
+**Scena 1 (solo)** <br/>
 W tej scenie można poruszać się niebieskim samochodem po drodze klawiszami WSAD.<br/>
 Klawiszem H można włączyć/wyłączyc linie wykrywające krawędź drogi.
 
-**Scena 2 (Nauka)**\n
+**Scena 2 (Nauka)** <br/>
 W tej scenie możemy uczestniczyć w nauce czerwonych pojazdów jak jeździć.<br/>
 Dokładniejszy opis działania w "DrivingDarwinLatex".<br/>
 Klawisze:
