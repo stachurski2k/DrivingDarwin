@@ -202,7 +202,7 @@ public:
     void loadScene(Resources* r) override {
         res = r;
         KeyboardControlls* controlls = new KeyboardControlls(&(res->keyboard));
-        car = new Car(controlls,vec3(0,0,1));
+        car = new Car(controlls,vec3(0.13f,0.33f,1.0f));
         car->setCarTexture(res->carTexture);
         car->setPosDir(res->road.getStartPos(), res->road.getStartDir());
     }
@@ -256,7 +256,7 @@ public:
     void loadScene(Resources* r) override {
         res = r;
         KeyboardControlls* controlls = new KeyboardControlls(&(res->keyboard));
-        car = new Car(controlls,vec3(0,0,1));
+        car = new Car(controlls,vec3(0.13f, 0.33f, 1.0f));
         car->setCarTexture(res->carTexture);
         car->setPosDir(res->road.getStartPos(), res->road.getStartDir());
 
