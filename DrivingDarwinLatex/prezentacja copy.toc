@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Neural Network}{3}{0}{1}
+\beamer@sectionintoc {2}{Cars Brain}{4}{0}{2}
+\beamer@sectionintoc {3}{Genetic approach}{8}{0}{3}
+\beamer@sectionintoc {4}{End}{11}{0}{4}
